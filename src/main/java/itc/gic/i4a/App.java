@@ -5,6 +5,6 @@ package itc.gic.i4a;
  */
 public class App {
     public static void main(String[] args) {
-        system.out.println("Hello World!");
+        System.out.println("Hello from I4 GIC Group A!");
     }
 }
